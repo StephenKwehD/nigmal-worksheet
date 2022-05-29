@@ -20,27 +20,27 @@ Here is a Demo : [Demo](https://Nigmalclothing.herokuapp.com/)
 If you are logged in as an admin a button in navbar will show up which gives you controll on your products,users and orders.
 
 - The button :
-<img width = "800" src="https://i.imgur.com/wzg9Qn1.png"/>  https://imgur.com/wzg9Qn1
+<img width = "800" src="https://i.imgur.com/wzg9Qn1.png"/> 
 
 - Products :
-<img width = "800" src="https://i.imgur.com/AMrzaZW.png"/>
+<img width = "800" src="https://i.imgur.com/UJIMku7.png"/>
 
 - Add or Edit :
-<img width = "300" src="https://i.imgur.com/p725woy.png"/>
-<img width = "300" src="https://i.imgur.com/80E5x6p.png"/>
+<img width = "300" src="https://i.imgur.com/Tu5OF6Y.png"/>  
+
 
 - Users :
-<img width = "800" src="https://i.imgur.com/sCdikSM.png"/>  
+<img width = "800" src="https://i.imgur.com/Vm5MphH.png"/>  
 
 - Edit :
-<img width = "300" src="https://i.imgur.com/U7LXWm0.png"/>
+<img width = "300" src="https://i.imgur.com/XFnordW.png"/>
 
 - Orders :
-<img width = "800" src="https://i.imgur.com/wyyvpYQ.png"/>
+<img width = "800" src="https://i.imgur.com/e1uRsML.png"/>
 
-- After clicking on details you can deliver the order if its paid :
-<img width = "800" src="https://i.imgur.com/Q9mX0X5.png"/>
+- Checkout page :
+<img width = "800" src="https://i.imgur.com/6NRJElx.png"/>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/abourhjoul/)
+
 
